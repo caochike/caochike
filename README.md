@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Chike Cao, an Assistant Professor in University of Rochester
+- 👀 I’m interested in scRNAseq analysis.
+- 🌱 I’m currently learning the trajectory analysis.
